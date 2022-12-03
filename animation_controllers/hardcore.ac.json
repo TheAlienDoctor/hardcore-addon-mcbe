@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.alien.hardcore": {
+			"initial_state": "alive",
+			"states": {
+				"alive": {
+					"transitions": [
+						{
+							"dead": "!query.is_alive"
+						}
+					],
+					"animations": [
+						"alien_deop.a"
+					]
+				},
+				"dead": {
+					"on_entry": [
+						"/tag @s add dead",
+						"/function alien/dead"
+					],
+					"animations": [
+						"alien_deop.a"
+					]
+				}
+			}
+		}
+	}
+}
