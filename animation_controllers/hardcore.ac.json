@@ -9,18 +9,11 @@
 						{
 							"dead": "!query.is_alive"
 						}
-					],
-					"animations": [
-						"alien_deop.a"
 					]
 				},
 				"dead": {
 					"on_entry": [
-						"/tag @s add dead",
-						"/function alien/dead"
-					],
-					"animations": [
-						"alien_deop.a"
+						"/tag @s add dead"
 					]
 				}
 			}
