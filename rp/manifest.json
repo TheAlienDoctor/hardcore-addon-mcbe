@@ -1,12 +1,12 @@
 ﻿{
 	"format_version": 2,
 	"header": {
-		"description": "§rA simple addon that adds Hardcore into Minecraft Bedrock edition | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-		"name": "§1§lAlien's§r §eHardcore Addon §4(RP-V1.0.0)§r",
+		"description": "§rA simple addon that adds Hardcore into Minecraft Bedrock edition | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.0 §r",
+		"name": "§1§lAlien's§r §eHardcore Addon §4(RP-V1.1.0)§r",
 		"uuid": "9d9221e2-d643-4c9b-9d82-d734653cb834",
 		"version": [
 			1,
-			0,
+			1,
 			0
 		],
 		"min_engine_version": [
@@ -17,12 +17,12 @@
 	},
 	"modules": [
 		{
-			"description": "§rA simple addon that adds Hardcore into Minecraft Bedrock edition | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+			"description": "§rA simple addon that adds Hardcore into Minecraft Bedrock edition | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.0 §r",
 			"type": "resources",
 			"uuid": "1e7c08a4-5bc2-4ff1-8684-5e6c01e4d3b2",
 			"version": [
 				1,
-				0,
+				1,
 				0
 			]
 		}
